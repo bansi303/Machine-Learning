@@ -1,0 +1,6 @@
+framework module Pods_MLApp {
+  umbrella header "Pods-MLApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
